@@ -10,6 +10,12 @@ This repository contains the implementation of the results included in the book 
 
 The implementation of the results presented in the book chapter are described in [this notebook](./results-chapter.ipynb).
 
+### Example of result
+
+In the figure below, we show the video quality available for the Internet users over a set of disaster scenarios of increasing number of disrupted links. A significant degradation in quality is imposed even in light disaster scenarios (low number of disrupted links).
+
+![Percentage of the population accessing videos with a given quality over the number of links removed](./figures/video-quality.svg)
+
 For more info, contact carlos.natalino@chalmers.se
 
 <a href="https://www.researchgate.net/profile/Carlos_Natalino" alt="ResearchGate profile"><img style="height: 25px" src="https://i1.rgstatic.net/ii/institution.image/AS%3A267458164789257%401440778403888_l"/></a>
